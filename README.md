@@ -1,2 +1,2 @@
 # Algo
-Game project
+Tilt Game project
